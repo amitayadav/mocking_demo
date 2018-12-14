@@ -1,0 +1,1 @@
+{"rustc":12561586668264683700,"features":"[]","target":13371261240584569408,"profile":8704699857346803414,"path":10872709659218687626,"deps":[["mocktopus v0.5.0","mocktopus",132598121388756058]],"local":[{"MtimeBased":[[1544700429,669110406],".fingerprint/mocking_demo-91ba7950b6bb8e85/dep-lib-mocking_demo-91ba7950b6bb8e85"]}],"rustflags":[],"edition":"Edition2018"}
